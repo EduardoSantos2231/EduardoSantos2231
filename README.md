@@ -4,7 +4,6 @@
 
 <p align="center">
   <strong>Desenvolvedor Full-Stack em formação</strong> apaixonado por criar experiências digitais rápidas, bonitas e bem arquitetadas.<br>
-  Foco em <strong>TypeScript</strong>, boas práticas e código que escala.
 </p>
 
 ---
