@@ -85,6 +85,7 @@
 - Boas práticas e padrões de projeto (**SOLID**, Clean Architecture, DDD)
 - Testes automatizados (**Jest** / **Vitest**)
 - Arquitetura de APIs escaláveis e performance em frontend (Astro + React)
+- Golang
 
 ---
 
