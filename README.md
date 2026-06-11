@@ -69,18 +69,6 @@
 
 ---
 
-### 🔹 Portfólio v1.0
-📁 https://github.com/EduardoSantos2231/Porfolio_v1.0
-
-👉 Meu primeiro portfólio completo, totalmente responsivo e focado em apresentar projetos e personalidade.
-
-**Principais pontos técnicos:**
-- Landing page moderna e otimizada
-- Componentização 
-- Design clean e links de contato integrados
-
----
-
 ## 📚 Atualmente Estudando
 - Boas práticas e padrões de projeto (**SOLID**, Clean Architecture, DDD)
 - Testes automatizados (**Jest** / **Vitest**)
